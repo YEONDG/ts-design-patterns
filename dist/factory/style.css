@@ -1,0 +1,13 @@
+body {
+  margin: 1em;
+}
+
+.items {
+  display: flex;
+}
+
+button {
+  padding: 1em;
+  font-size: 1em;
+  flex-grow: 1;
+}
