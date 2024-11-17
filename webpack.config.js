@@ -12,7 +12,8 @@ module.exports = {
   // entry: './src/flyweight/index.ts',
   // entry: './src/composite/index.ts',
   // entry: './src/factory/index.ts',
-  entry: './src/observer/index.ts',
+  // entry: './src/observer/index.ts',
+  entry: './src/mediator/index.ts',
   devtool: 'inline-source-map',
   module: {
     rules: [
